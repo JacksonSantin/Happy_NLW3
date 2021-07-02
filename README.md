@@ -16,8 +16,6 @@
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JacksonSantin/happy_NLW3?color=%238257E5">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JacksonSantin/happy_NLW3?color=%238257E5">
-
   <a href="https://rocketseat.com.br">
     <img alt="Feito por Jackson Dhanyel Santin" src="https://img.shields.io/badge/feito%20por-Jackson-%238257E5">
   </a>
