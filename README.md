@@ -46,11 +46,11 @@ O NLW é uma experiência online com muito conteúdo prático, oferecido de form
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/E1BBQmu6uy9bP191w1aPWU/Happy-Web">
+<a href="https://www.figma.com/file/E1BBQmu6uy9bP191w1aPWU/Happy-Web" target="_blank">
   <img alt="Made by JacksonSantin" src="https://img.shields.io/badge/Acessar%20Layout%20Web%20-Figma-%238257E5">
 </a>
 
-<a href="https://www.figma.com/file/XTOeScvbN3sqqirUYXksCo/Happy-Mobile">
+<a href="https://www.figma.com/file/XTOeScvbN3sqqirUYXksCo/Happy-Mobile" target="_blank">
   <img alt="Made by JacksonSantin" src="https://img.shields.io/badge/Acessar%20Layout%20Mobile%20-Figma-%238257E5">
 </a>
 
